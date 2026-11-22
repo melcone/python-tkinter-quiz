@@ -1,7 +1,7 @@
 # pythoin-tkinter-quiz
 
-**Name:** Mehlcon D. Casimero
-**Section:** SE 3A
+**Name:** Mehlcon D. Casimero\
+**Section:** SE 3A\
 **Topic:** Programming
 
 ## Features Completed
